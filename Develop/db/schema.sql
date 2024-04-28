@@ -1,6 +1,7 @@
--- DROP DATABASE
-DROP DATABASE IF EXISTS ecommerce_db;
+\c postgres;
 
--- CREATE DATABASE
+DROP DATABASE IF EXISTS ecommerce_db;
 CREATE DATABASE ecommerce_db;
+
+\c ecommerce_db;
 
