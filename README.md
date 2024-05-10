@@ -1,11 +1,16 @@
 ## Description
 
-This Ecom ORM will help keep your database organzied and concise 
+This Ecom ORM will help keep your database organized and concise 
 
 
 ## Deployment
 
-DEMO - [LIVE DEMO]((https://drive.google.com/file/d/1B45-GUFFraQkn-C4fk6g1Inpg-UVha8H/view))
+DEMO - [LIVE DEMO](https://drive.google.com/file/d/1B45-GUFFraQkn-C4fk6g1Inpg-UVha8H/view)
+
+
+## Visual
+
+<img src="./Assets/img.png" >
 
 ## Usage
 
@@ -13,7 +18,7 @@ To use the webpage, you can review each section by clicking on the header links 
 
 ## Credits
 
-created by vin galante
+created by Vin Galante
 
 ## License
 
